@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joaquin Vasquez
 - 👀 I’m Jr. Java Developer
-- 🌱 I’m currently learning web develop full stack
+- 🌱 I’m always learning new things
 - 📫 joacovas@hotmail.com
 - 📫 https://www.linkedin.com/in/joaquin-vasquez-86a4781b2/
