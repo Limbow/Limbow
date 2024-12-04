@@ -32,5 +32,5 @@ Me impulsa la posibilidad de transformar ideas complejas en soluciones reales. M
 
 Si quieres colaborar en algún proyecto o tienes una idea interesante en mente, ¡no dudes en escribirme!
 
-Email: joacovasquez0@gmail.com 
-LinkedIn: [[Perfil de linkedin]](https://www.linkedin.com/in/joaquin-vasquez-86a4781b2/)
+Email: joacovasquez0@gmail.com                           
+LinkedIn: [Perfil de linkedin](https://www.linkedin.com/in/joaquin-vasquez-86a4781b2/)
