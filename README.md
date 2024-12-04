@@ -21,7 +21,7 @@ Puedo adaptarme rápidamente a nuevas herramientas, tecnologías y entornos.
 **📂 Proyectos Destacados:**
 
 **Sistema de Mensajería Web**: Una plataforma de mensajería con roles de usuario y administrador, diseñada en Python y Flask con MySQL como base de datos.                                                     
-**Reconocimiento Facial**: Proyecto de detección y registro facial utilizando Python, con una integración de cámara en tiempo real.
+**Reconocimiento Facial**: Proyecto de detección y registro facial utilizando Python, con una integración de cámara en tiempo real.                                                                                   
 **Sistema de alquiler de posada en linea**: Proyecto web desarrollado en Java de nucleo turistico de Cumbrecita, Cordoba. Funcionamiento similar a Booking o Airbnb.
 
 🎯 Lo que me motiva:
