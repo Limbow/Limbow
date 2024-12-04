@@ -18,7 +18,7 @@ Experiencia trabajando tanto en proyectos individuales como colaborativos.
 Compromiso con el aprendizaje continuo y la mejora profesional.
 Puedo adaptarme rápidamente a nuevas herramientas, tecnologías y entornos.
 
-📂 Proyectos Destacados:
+**📂 Proyectos Destacados:**
 
 **Sistema de Mensajería Web**: Una plataforma de mensajería con roles de usuario y administrador, diseñada en Python y Flask con MySQL como base de datos.
 **Reconocimiento Facial**: Proyecto de detección y registro facial utilizando Python, con una integración de cámara en tiempo real.
