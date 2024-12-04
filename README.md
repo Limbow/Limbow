@@ -5,11 +5,11 @@
 
 🚀 Lenguajes y Tecnologías en los que he trabajado:
 
-Java (Spring Framework): Desarrollo de aplicaciones empresariales y APIs REST robustas.
-Python: Desarrollo web con Flask/Django, automatización de tareas y manejo de datos.
-HTML & CSS: Creación de interfaces web atractivas y funcionales, priorizando la experiencia del usuario.
-C++: Desarrollo de aplicaciones de escritorio y trabajo con algoritmos de bajo nivel.
-PHP: Implementación de soluciones backend y desarrollo de páginas web dinámicas.
+**Java (Spring Framework):** Desarrollo de aplicaciones empresariales y APIs REST robustas.                                       
+**Python:** Desarrollo web con Flask, automatización de tareas y manejo de datos.                                  
+**HTML & CSS:** Creación de interfaces web atractivas y funcionales, priorizando la experiencia del usuario.                                         
+**C++:** Desarrollo de aplicaciones de escritorio y trabajo con algoritmos de bajo nivel.                                          
+**PHP:** Implementación de soluciones backend y desarrollo de páginas web dinámicas.                  
 
 🌟 ¿Por qué elegirme?
 
